@@ -36,9 +36,17 @@
       "name": "fares",
       "code": "2564",
       "phone": "01124711424",
-      "servides": "clean",
+      "services": "clean",
       "day": "sunday",
       "time": "2-3pm"
+    },
+    {
+      "name": "ahmed",
+      "code": "2585",
+      "phone": "01124711424",
+      "services": "read",
+      "day": "monday",
+      "time": "5-6pm"
     }
   ],
   "comments": [
